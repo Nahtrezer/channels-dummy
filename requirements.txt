@@ -1,0 +1,5 @@
+Django
+channels
+uwsgi
+ipython
+asgi_redis
